@@ -21,10 +21,10 @@ body {
 }
 .container
     {
-        max-width= 800px;
-        margin= 0 auto;
-        color= grey;
-        font-family= Arial;
-        padding-top= 40px;
-        padding-bottom= 50px;
+        max-width:800px;
+        margin: 0 auto;
+        color: grey;
+        font-family:  Arial;
+        padding-top: 40px;
+        padding-bottom: 50px;
     }
